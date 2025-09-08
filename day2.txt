@@ -1,0 +1,3 @@
+day 2 git practice
+today i was practing about the brnching ,fork and pull request,conflicts, README.md 
+this is the file in main branch before  merging 
