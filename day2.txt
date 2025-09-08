@@ -1,0 +1,2 @@
+day 2 git practice
+today i was practing about the brnching ,fork and pull request,conflicts, README.md
